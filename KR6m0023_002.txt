@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:35.297410
+#+DATE: 2015-08-30 20:53:36.761433
 #+TITLE: 大乘掌珍論
 #+PROPERTY: CBETA_ID T30n1578
 #+PROPERTY: ID KR6m0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1578
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0023_T_000-0268a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0023_T_002-0273b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大乘掌珍論》卷下¶
+《大乘掌珍論》卷下¶
 ¶
 清辯菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
