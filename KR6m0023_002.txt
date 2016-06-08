@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:35.297410
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 大乘掌珍論
 #+PROPERTY: CBETA_ID T30n1578
 #+PROPERTY: ID KR6m0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1578
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0023_T_000-0268a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0023_T_002-0273b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大乘掌珍論》卷下¶
+《大乘掌珍論》卷下¶
 ¶
 清辯菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -387,9 +386,9 @@
 「　諸心慧境現
 　智者由不取¶
 　慧行無分別
-　無所行而行
+　無所行而行」
 #+END_VERSE
-」¶
+¶
 
 此中能集諸行種子。或為諸行種子所集。故¶
 名為心。能持勝德或由彼持令不流散。故名¶

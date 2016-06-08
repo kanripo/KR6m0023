@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:35.262079
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 大乘掌珍論
 #+PROPERTY: CBETA_ID T30n1578
 #+PROPERTY: ID KR6m0023
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1578
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0023_T_000-0268a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0023_T_001-0268a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1578¶
-
- 《大乘掌珍論》卷上¶
+No. 1578¶
+《大乘掌珍論》卷上¶
 ¶
 清辯菩薩造¶
 大唐三藏法師玄奘奉　詔譯¶
@@ -46,9 +45,9 @@ No.1578¶
 「　真性有為空
 　如幻緣生故¶
 　無為無有實
-　不起似空華
+　不起似空華」
 #+END_VERSE
-」¶
+¶
 
 於自他宗計度差別雖有眾多遍計所執。然¶
 所知境略有二種。一者有為。二者無為。以諸¶
@@ -300,8 +299,7 @@ No.1578¶
 性空故此性亦空。豈非如彼相狀顯現即有¶
 如是諸物自性。如汝所許華果等物。若爾即¶
 應幻術所作象馬等事實有如是象馬等性。¶
-然實無有。故知一切幻術所作象馬等事自¶
-性皆空。是故實有。如所說喻。所立義成。亦¶
+然實無有。故知一切幻術所作象馬等事自性皆空。是故實有。如所說喻。所立義成。亦¶
 無成立。已成過失。就自性空成立眼等有為¶
 空故。¶
 
